@@ -1,0 +1,5 @@
+name: 'Custom API REST Resource'
+type: module
+description: 'Provides a custom REST API endpoint via plugin.'
+core_version_requirement: ^10 || ^11
+package: Custom
